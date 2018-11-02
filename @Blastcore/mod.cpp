@@ -1,0 +1,11 @@
+name = "Blastcore: Phoenix";
+picture = "mod.paa";
+description = "Visual Effects Package";
+logo = "mod.paa";
+logoOver = "mod.paa";
+tooltip = "Blastcore: Phoenix";
+author = "OpticalSnare";
+overviewPicture = "mod.paa";
+overview = "When stuff explodes in the night, women orgasm...";
+overviewText = "Blastcore: Phoenix";
+overviewFootnote = "Visual Effects Package";
