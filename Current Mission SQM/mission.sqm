@@ -5,10 +5,10 @@ class EditorData
 	angleGridStep=0.2617994;
 	scaleGridStep=1;
 	autoGroupingDist=10;
-	toggles=641;
+	toggles=513;
 	class ItemIDProvider
 	{
-		nextID=653;
+		nextID=659;
 	};
 	class MarkerIDProvider
 	{
@@ -16,10 +16,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={11940.37,34.361763,2702.01};
-		dir[]={-0.075846605,-0.99564821,0.054501258};
-		up[]={-0.80855602,0.093112022,0.58100301};
-		aside[]={0.58355308,1.0926306e-007,0.81209904};
+		pos[]={14713.84,132.37372,13791.691};
+		dir[]={-0.62790173,-0.55659324,0.54422927};
+		up[]={-0.42083541,0.83057487,0.36475608};
+		aside[]={0.65504402,-9.8588498e-007,0.75574493};
 	};
 };
 binarizationWanted=0;
@@ -95,14 +95,14 @@ class Mission
 	};
 	class Entities
 	{
-		items=26;
+		items=25;
 		class Item0
 		{
 			dataType="Group";
 			side="Independent";
 			class Entities
 			{
-				items=49;
+				items=40;
 				class Item0
 				{
 					dataType="Object";
@@ -118,7 +118,7 @@ class Mission
 					};
 					id=498;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.285027;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -274,7 +274,7 @@ class Mission
 					};
 					id=589;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.285004;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -430,7 +430,7 @@ class Mission
 					};
 					id=593;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.285;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -508,7 +508,7 @@ class Mission
 					};
 					id=595;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284996;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -586,7 +586,7 @@ class Mission
 					};
 					id=597;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284996;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -664,7 +664,7 @@ class Mission
 					};
 					id=599;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284996;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -742,7 +742,7 @@ class Mission
 					};
 					id=601;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -820,7 +820,7 @@ class Mission
 					};
 					id=603;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284985;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -898,7 +898,7 @@ class Mission
 					};
 					id=605;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -976,7 +976,7 @@ class Mission
 					};
 					id=606;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1054,7 +1054,7 @@ class Mission
 					};
 					id=607;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1132,7 +1132,7 @@ class Mission
 					};
 					id=608;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284996;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1210,7 +1210,7 @@ class Mission
 					};
 					id=611;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284996;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1288,7 +1288,7 @@ class Mission
 					};
 					id=610;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1366,7 +1366,7 @@ class Mission
 					};
 					id=612;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1444,7 +1444,7 @@ class Mission
 					};
 					id=613;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1522,7 +1522,7 @@ class Mission
 					};
 					id=614;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1600,7 +1600,7 @@ class Mission
 					};
 					id=609;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1678,7 +1678,7 @@ class Mission
 					};
 					id=622;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285278;
+					atlOffset=61.285271;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1737,7 +1737,7 @@ class Mission
 					};
 					id=623;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1815,7 +1815,7 @@ class Mission
 					};
 					id=624;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1893,7 +1893,7 @@ class Mission
 					};
 					id=625;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -1971,7 +1971,7 @@ class Mission
 					};
 					id=626;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2049,7 +2049,7 @@ class Mission
 					};
 					id=627;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284996;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2127,7 +2127,7 @@ class Mission
 					};
 					id=628;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2205,7 +2205,7 @@ class Mission
 					};
 					id=629;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284996;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2283,7 +2283,7 @@ class Mission
 					};
 					id=630;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2361,7 +2361,7 @@ class Mission
 					};
 					id=631;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2439,7 +2439,7 @@ class Mission
 					};
 					id=632;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2517,7 +2517,7 @@ class Mission
 					};
 					id=633;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2595,7 +2595,7 @@ class Mission
 					};
 					id=634;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2673,7 +2673,7 @@ class Mission
 					};
 					id=635;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2751,7 +2751,7 @@ class Mission
 					};
 					id=641;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284985;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2829,7 +2829,7 @@ class Mission
 					};
 					id=637;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2907,7 +2907,7 @@ class Mission
 					};
 					id=636;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2985,7 +2985,7 @@ class Mission
 					};
 					id=638;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284992;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -3063,7 +3063,7 @@ class Mission
 					};
 					id=639;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -3141,709 +3141,7 @@ class Mission
 					};
 					id=640;
 					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item40
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={6.2589998,-0.19655943,3.3550489};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=643;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item41
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={6.5689998,-0.16628981,3.7900488};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=644;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item42
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={6.8629999,-0.15878248,4.1800489};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=645;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item43
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={7.4819999,-0.089843273,4.9860487};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=652;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item44
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={6.6020002,-0.28949308,3.1180489};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=648;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item45
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={6.9120002,-0.2590518,3.5540488};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=647;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item46
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={7.2059999,-0.24084425,3.9440489};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=649;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item47
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={7.5139999,-0.20613432,4.357049};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=650;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-				class Item48
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={7.8239999,-0.18221235,4.7500486};
-					};
-					side="Independent";
-					flags=1;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=651;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.285;
+					atlOffset=61.284988;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -3911,15 +3209,15 @@ class Mission
 			{
 			};
 			id=497;
-			atlOffset=61.285;
+			atlOffset=61.285027;
 		};
 		class Item1
 		{
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={14495.498,1,13953.612};
-				angles[]={0,5.0433645,0};
+				position[]={14495.498,0.99983978,13953.612};
+				angles[]={0,5.0433731,0};
 			};
 			side="Empty";
 			class Attributes
@@ -3927,7 +3225,467 @@ class Mission
 			};
 			id=556;
 			type="JDG_carrier_Spawner";
-			atlOffset=54.895157;
+			atlOffset=54.894997;
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="ttt_nimitz_planeRoleECM";
+					expression="_this setVariable ['PlaneRoleECM', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute1
+				{
+					property="ttt_nimitz_briefing";
+					expression="_this setVariable ['Briefing', _value]; if (_value) then { [_this] call TTT_fnc_briefing; };";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute2
+				{
+					property="ttt_nimitz_elevator2State";
+					expression="_this setVariable ['Elevator2', _value]; [_this, 1, _value] call ttt_fnc_elevatorInit;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute3
+				{
+					property="ttt_nimitz_feelers";
+					expression="_this setVariable ['Feelers', _value]; [_value, _this] call ttt_fnc_feelers;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute4
+				{
+					property="ttt_nimitz_planeRoleEmpty";
+					expression="_this setVariable ['PlaneRoleEmpty', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute5
+				{
+					property="ttt_nimitz_vehicleRoleTowingTractor";
+					expression="_this setVariable ['VehicleRoleTowingTractor', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute6
+				{
+					property="ttt_nimitz_disablePPCat";
+					expression="_this setVariable ['DisablePPCatLaunch', _value]; TTT_disablePPCat = _value; publicVariable 'TTT_disablePPCat';";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				class Attribute7
+				{
+					property="ttt_nimitz_elevator1State";
+					expression="_this setVariable ['Elevator1', _value]; [_this, 0, _value] call ttt_fnc_elevatorInit;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute8
+				{
+					property="ttt_nimitz_syncLoop";
+					expression="_this setVariable ['AutosyncLoop', _value]; TTT_builtin = _value;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute9
+				{
+					property="ttt_nimitz_planeRoleCAP";
+					expression="_this setVariable ['PlaneRoleCAP', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute10
+				{
+					property="ttt_nimitz_planeRoleCAS";
+					expression="_this setVariable ['PlaneRoleCAS', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute11
+				{
+					property="ttt_nimitz_vehicleRoleAmmoTractor";
+					expression="_this setVariable ['VehicleRoleAmmoTractor', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute12
+				{
+					property="ttt_nimitz_elevator5State";
+					expression="_this setVariable ['Elevator5', _value]; [_this, 4, _value] call ttt_fnc_elevatorInit;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				class Attribute13
+				{
+					property="ttt_nimitz_syncLoopSleep";
+					expression="_this setVariable ['AutosyncLoopSleep', parseNumber _value]; TTT_builtinSleep = parseNumber _value;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="5";
+						};
+					};
+				};
+				class Attribute14
+				{
+					property="ttt_nimitz_lowvis";
+					expression="_this setVariable ['LowVis', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute15
+				{
+					property="ttt_nimitz_planeRoleTanker";
+					expression="_this setVariable ['PlaneRoleTanker', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute16
+				{
+					property="ttt_nimitz_elevator4State";
+					expression="_this setVariable ['Elevator4', _value]; [_this, 3, _value] call ttt_fnc_elevatorInit;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute17
+				{
+					property="ttt_nimitz_number";
+					expression="_this setVariable ['Number', _value]; [_this, _value] call TTT_fnc_number;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="jdg_carrier\data\num\number68_ca.paa";
+						};
+					};
+				};
+				class Attribute18
+				{
+					property="ttt_nimitz_aftmast";
+					expression="_this setVariable ['AftMast', _value]; if (_value) then {(_this getVariable 'jdg_carrier_island') animate ['aftMast', 0, true];} else {(_this getVariable 'jdg_carrier_island') animate ['aftMast', 1, true];}";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute19
+				{
+					property="ttt_nimitz_heloRoleSAR";
+					expression="_this setVariable ['HeloRoleSAR', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute20
+				{
+					property="ttt_nimitz_vehicleRoleCrashCrane";
+					expression="_this setVariable ['VehicleRoleCrashCrane', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute21
+				{
+					property="ttt_nimitz_populate";
+					expression="_this setVariable ['Populate', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				class Attribute22
+				{
+					property="ttt_nimitz_elevator3State";
+					expression="_this setVariable ['Elevator3', _value]; [_this, 2, _value] call ttt_fnc_elevatorInit;";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=1;
+						};
+					};
+				};
+				class Attribute23
+				{
+					property="ttt_nimitz_aacrew";
+					expression="_this setVariable ['AACrew', _value]";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"BOOL"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				nAttributes=24;
+			};
 		};
 		class Item2
 		{
@@ -3938,7 +3696,7 @@ class Mission
 			};
 			id=559;
 			type="TTT_ModuleNimitzBoat";
-			atlOffset=0.00028419495;
+			atlOffset=0.00044441223;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -3991,7 +3749,7 @@ class Mission
 			};
 			id=560;
 			type="TTT_ModuleNimitzCatapult";
-			atlOffset=10.39978;
+			atlOffset=10.39994;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4101,7 +3859,7 @@ class Mission
 			};
 			id=561;
 			type="TTT_ModuleNimitzFlightDeck";
-			atlOffset=7.2479248e-005;
+			atlOffset=0.00023269653;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4135,7 +3893,7 @@ class Mission
 			};
 			id=562;
 			type="TTT_ModuleNimitzFuel";
-			atlOffset=0.00019073486;
+			atlOffset=0.00035095215;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4169,7 +3927,7 @@ class Mission
 			};
 			id=563;
 			type="TTT_ModuleNimitzHangar";
-			atlOffset=10.39999;
+			atlOffset=0.00013923645;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4203,6 +3961,7 @@ class Mission
 			};
 			id=564;
 			type="TTT_ModuleNimitzIflols";
+			atlOffset=0.00016021729;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4236,6 +3995,7 @@ class Mission
 			};
 			id=565;
 			type="TTT_ModuleNimitzArrest";
+			atlOffset=0.00016021729;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4288,7 +4048,7 @@ class Mission
 			};
 			id=566;
 			type="TTT_ModuleNimitzOnShip";
-			atlOffset=10.399963;
+			atlOffset=0.00011444092;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4341,7 +4101,7 @@ class Mission
 			};
 			id=567;
 			type="TTT_ModuleNimitzRepair";
-			atlOffset=2.0980835e-005;
+			atlOffset=0.00018119812;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4375,7 +4135,7 @@ class Mission
 			};
 			id=568;
 			type="TTT_ModuleNimitzRescue";
-			atlOffset=6.8664551e-005;
+			atlOffset=0.00022888184;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -4447,7 +4207,7 @@ class Mission
 			};
 			id=569;
 			type="DLL_ModuleTow";
-			atlOffset=10.29986;
+			atlOffset=9.5367432e-006;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -5148,98 +4908,6 @@ class Mission
 				};
 				nAttributes=2;
 			};
-		};
-		class Item25
-		{
-			dataType="Group";
-			side="Independent";
-			class Entities
-			{
-				items=1;
-				class Item0
-				{
-					dataType="Object";
-					class PositionInfo
-					{
-						position[]={7.171,-0.12854719,4.593049};
-					};
-					side="Independent";
-					flags=3;
-					class Attributes
-					{
-						isPlayable=1;
-					};
-					id=646;
-					type="Exile_Unit_GhostPlayer";
-					atlOffset=61.284996;
-					class CustomAttributes
-					{
-						class Attribute0
-						{
-							property="allowDamage";
-							expression="_this allowdamage _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"BOOL"
-										};
-									};
-									value=1;
-								};
-							};
-						};
-						class Attribute1
-						{
-							property="speaker";
-							expression="_this setspeaker _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"STRING"
-										};
-									};
-									value="Male01GRE";
-								};
-							};
-						};
-						class Attribute2
-						{
-							property="pitch";
-							expression="_this setpitch _value;";
-							class Value
-							{
-								class data
-								{
-									class type
-									{
-										type[]=
-										{
-											"SCALAR"
-										};
-									};
-									value=0.94999999;
-								};
-							};
-						};
-						nAttributes=3;
-					};
-				};
-			};
-			class Attributes
-			{
-			};
-			id=642;
-			atlOffset=61.284996;
 		};
 	};
 };
